@@ -61,15 +61,10 @@ ThreadPool/
 项目使用 CMake 进行构建：
 
 ```bash
-# 克隆仓库
-git clone https://github.com/yourusername/ThreadPool.git
 cd ThreadPool
 
-# 创建构建目录
 mkdir build && cd build
 
-# 生成构建文件
 cmake ..
 
-# 编译
 make
