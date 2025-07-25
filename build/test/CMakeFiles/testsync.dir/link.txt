@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/testsync.dir/testsync.cpp.o -o /home/whoops/ThreadPool/bin/testsync  -lpthread 

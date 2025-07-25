@@ -1,0 +1,5 @@
+/home/whoops/ThreadPool/build/CMakeFiles/edit_cache.dir
+/home/whoops/ThreadPool/build/CMakeFiles/rebuild_cache.dir
+/home/whoops/ThreadPool/build/test/CMakeFiles/testsync.dir
+/home/whoops/ThreadPool/build/test/CMakeFiles/edit_cache.dir
+/home/whoops/ThreadPool/build/test/CMakeFiles/rebuild_cache.dir
